@@ -1,0 +1,26 @@
+{
+  "item.tutorialmod.pink_ingot": "粉锭",
+  "item.tutorialmod.pink_pick": "粉镐子",
+  "item.tutorialmod.pink_axe": "粉斧头",
+  "item.tutorialmod.raw_pink": "生粉矿",
+  "item.tutorialmod.probe_rod": "探矿棍",
+  "item.tutorialmod.cucumber": "青瓜",
+  "item.tutorialmod.fengwo": "蜂窝煤",
+
+  "block.tutorialmod.pink_ore": "粉矿",
+  "block.tutorialmod.pink_block": "粉块",
+  "block.tutorialmod.speed_block": "速度方块",
+  "block.tutorialmod.dici": "地刺",
+  "block.tutorialmod.touming": "透明方块",
+  "block.tutorialmod.pink_slab": "粉活板门",
+  "block.tutorialmod.pink_stairs": "粉楼梯",
+  "block.tutorialmod.pink_fence": "粉栅栏",
+  "block.tutorialmod.pink_fence_gate": "粉栅栏门",
+
+  "itemGroup.tutorialtab": "教学选卡",
+
+  "item.tutorialmod.probe_rod.no_valuables": "没有探测到矿物.",
+  "tooltis.tutorialmod.prrobe_rod.tooltis.shift": "右键点击任意方块进行探测！",
+  "tooltis.tutorialmod.prrobe_rod.tooltis": "按下 §eSHITF§r 查看详细",
+  "tooltis.tutorialmod.speed_block.tis": "踩上速度方块上可获得速度提升4级Buff！"
+}

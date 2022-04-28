@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:pink_ore",
+    "minecraft:redstone_ore"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "tutorialmod:pink_ore"
+  },
+  "result": "tutorialmod:pink_ingot",
+
+  "experience": 20000,
+  "cookingtime": 5
+}

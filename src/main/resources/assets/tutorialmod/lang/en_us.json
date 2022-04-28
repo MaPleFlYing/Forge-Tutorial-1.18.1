@@ -1,0 +1,22 @@
+{
+  "item.tutorialmod.pink_ingot": "Pink Ingot",
+  "item.tutorialmod.pink_pick": "Pink Pick",
+  "item.tutorialmod.pink_axe": "Pink Axe",
+  "item.tutorialmod.raw_pink": "Raw Pink",
+  "item.tutorialmod.probe_rod": "Probe Rod",
+  "item.tutorialmod.cucumber": "Cucumber",
+  "item.tutorialmod.fengwo": "...",
+
+  "block.tutorialmod.pink_ore": "Pink Ore",
+  "block.tutorialmod.pink_block": "Pink Block",
+  "block.tutorialmod.speed_block": "Speed Block",
+  "block.tutorialmod.dici": "...",
+  "block.tutorialmod.touming": "...",
+
+  "itemGroup.tutorialtab": "Tutorial Tab",
+
+  "item.tutorialmod.probe_rod.no_valuables": "Minerals not detected.",
+  "tooltis.tutorialmod.prrobe_rod.tooltis.shift": "...",
+  "tooltis.tutorialmod.prrobe_rod.tooltis": "...",
+  "tooltis.tutorialmod.speed_block.tis": "..."
+}
